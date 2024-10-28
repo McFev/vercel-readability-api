@@ -1,0 +1,10 @@
+{
+  "name": "readability-api",
+  "version": "1.0.0",
+  "main": "api/readability.js",
+  "dependencies": {
+    "@mozilla/readability": "^0.4.4",
+    "jsdom": "^21.1.0",
+    "node-fetch": "^2.6.7"
+  }
+}

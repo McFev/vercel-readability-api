@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/readability.js": {
+      "runtime": "nodejs18.x"
+    }
+  }
+}
